@@ -1,0 +1,1668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DELETE",
+				"DELETE_DVD_NOT_FOUND"
+			],
+			[
+				"DELE",
+				"DELETE_DVD_NOT_FOUND"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"explode",
+				"explode()"
+			],
+			[
+				"data",
+				"database.json"
+			],
+			[
+				"INSERT",
+				"INSERT_DVD_ALREADY_EXIST"
+			],
+			[
+				"INSERT_D",
+				"INSERT_DVD_ERROR"
+			],
+			[
+				"INSER",
+				"INSERT_DVD_INVALID_DATA"
+			],
+			[
+				"isinteg",
+				"is_integer()"
+			],
+			[
+				"encoded",
+				"encodedJSON"
+			],
+			[
+				"suce",
+				"successfully"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"JSON",
+				"JSONUtils"
+			],
+			[
+				"JS",
+				"JSONUtils"
+			],
+			[
+				"limit",
+				"set_time_limit"
+			],
+			[
+				"flush",
+				"ob_flush"
+			],
+			[
+				"Res",
+				"Rest.sublime-project"
+			],
+			[
+				"Re",
+				"Rest.sublime-workspace"
+			],
+			[
+				"var_d",
+				"var_dump()"
+			],
+			[
+				"strstr",
+				"strstr()"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"lo",
+				"log.txt"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"md",
+				"md5_file"
+			],
+			[
+				"out",
+				"output_file_name"
+			],
+			[
+				"compa",
+				"company_address"
+			],
+			[
+				"com",
+				"company_address"
+			],
+			[
+				"imp",
+				"implode"
+			],
+			[
+				"tbs_plugin_opentbs",
+				"tbs_plugin_opentbs.php"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"constr",
+				"__construct()"
+			],
+			[
+				"date",
+				"date()"
+			],
+			[
+				"_valid",
+				"_valid_session"
+			],
+			[
+				"_v",
+				"_valid_session"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"in_arr",
+				"in_array()"
+			],
+			[
+				"__con",
+				"__construct()"
+			],
+			[
+				"u",
+				"ucfirst"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"a",
+				"float"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"meta",
+				"meta-charset	HTML/Snippet"
+			],
+			[
+				"fwr",
+				"fwrite"
+			],
+			[
+				"lt",
+				"ltrim()"
+			],
+			[
+				"arraykey",
+				"array_keys()"
+			],
+			[
+				"co",
+				"config.php"
+			],
+			[
+				"aja",
+				"ajax	$.ajax()"
+			],
+			[
+				"arrayke",
+				"array_keys"
+			],
+			[
+				"ce",
+				"cellspacing	table"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"defi",
+				"define()"
+			],
+			[
+				"sea",
+				"searchConditions"
+			],
+			[
+				"mysql_es",
+				"mysql_escape_string"
+			],
+			[
+				"getcontent",
+				"file_get_contents()"
+			],
+			[
+				"arraymer",
+				"array_merge"
+			],
+			[
+				"twitter",
+				"twitters"
+			],
+			[
+				"twitr",
+				"twitter"
+			],
+			[
+				"music",
+				"music_director"
+			],
+			[
+				"phpver",
+				"phpversion()"
+			],
+			[
+				"xa",
+				"xampp/"
+			],
+			[
+				"for",
+				"forbidden/"
+			],
+			[
+				"word",
+				"ucwords"
+			],
+			[
+				"xml",
+				"xmldoc"
+			],
+			[
+				"time",
+				"set_time_limit()"
+			],
+			[
+				"ISBN",
+				"ISBN10"
+			],
+			[
+				"get",
+				"get.xml"
+			],
+			[
+				"file_get",
+				"file_get_contents()"
+			],
+			[
+				"liv",
+				"livres"
+			],
+			[
+				"un",
+				"unserialize()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"addcl",
+				"addClass	jQuery"
+			],
+			[
+				"form",
+				"action	form"
+			],
+			[
+				"mysql_fetc",
+				"mysql_fetch_assoc"
+			],
+			[
+				"f",
+				"fpdf.php"
+			],
+			[
+				"jsonde",
+				"json_decode()"
+			],
+			[
+				"sc",
+				"script	HTML/Element"
+			],
+			[
+				"ajax",
+				"ajax	$.ajax()"
+			],
+			[
+				"mysql_e",
+				"mysql_error()"
+			],
+			[
+				"header",
+				"header()"
+			],
+			[
+				"getF",
+				"getFullYear	jsDate"
+			],
+			[
+				"soud",
+				"soudure_lance"
+			],
+			[
+				"html",
+				"html	.html"
+			],
+			[
+				"function",
+				"function	jsProp"
+			],
+			[
+				"last",
+				"last	jQuery"
+			],
+			[
+				"ID_",
+				"ID_VAL"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"s",
+				"controllers/"
+			],
+			[
+				"jquery",
+				"jquery.migrate.js"
+			],
+			[
+				"mysqlfetchass",
+				"mysql_fetch_assoc()"
+			],
+			[
+				"SEPARA",
+				"PATH_SEPARATOR"
+			],
+			[
+				"dirn",
+				"dirname()"
+			],
+			[
+				"mysqlrea",
+				"mysql_real_escape_string()"
+			],
+			[
+				"mysqlreales",
+				"mysql_real_escape_string()"
+			],
+			[
+				"mysqlreale",
+				"mysql_real_escape_string()"
+			],
+			[
+				"mysqlquer",
+				"mysql_query()"
+			],
+			[
+				"mysql_real",
+				"mysql_real_escape_string()"
+			],
+			[
+				"mysql_sele",
+				"mysql_select_db()"
+			],
+			[
+				"mysql_connect",
+				"mysql_connect()"
+			],
+			[
+				"mysqli_connect",
+				"mysqli_connect()"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"array",
+				"array_walk()"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"script",
+				"script-src	HTML/Snippet"
+			],
+			[
+				"reload",
+				"reloadMessage"
+			],
+			[
+				"timesp",
+				"timestamp"
+			],
+			[
+				"sha",
+				"sha1()"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"user",
+				"user2"
+			],
+			[
+				"htmls",
+				"htmlspecialchars_decode()"
+			],
+			[
+				"replac",
+				"replace	jsString"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"recuper",
+				"recupererUtilisateurParUID"
+			],
+			[
+				"array_diff_",
+				"array_diff_key"
+			],
+			[
+				"scree",
+				"screenY	jsWindow"
+			],
+			[
+				"screen",
+				"screen	jsWindow"
+			],
+			[
+				"parent",
+				"parent	jQuery"
+			],
+			[
+				"width",
+				"width	jQuery"
+			],
+			[
+				"col-xs",
+				"col-xs-4	BootstrapClass"
+			],
+			[
+				"styl",
+				"style	Attr"
+			],
+			[
+				"sub",
+				"submit	jQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "DvdController.php",
+			"settings":
+			{
+				"buffer_size": 5338,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"forma",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"xml2json pretty"
+			],
+			[
+				"cheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"rando",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"random",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"urld",
+				"StringEncode: URL Decode"
+			],
+			[
+				"url",
+				"StringEncode: URL Decode"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"dupli",
+				"Duplicate Selections"
+			],
+			[
+				"dup",
+				"Duplicate Selections"
+			],
+			[
+				"duplci",
+				"Duplicate Selections"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"line",
+				"Sort Lines"
+			],
+			[
+				"base",
+				"Hasher: Base64 Encode"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"urle",
+				"StringEncode: URL Encode"
+			],
+			[
+				"pow",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"header",
+				"Snippet: Table Set Header"
+			],
+			[
+				"deco",
+				"StringEncode: URL Decode"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"date",
+				"InsertDate: Default"
+			],
+			[
+				"install",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ci sessio",
+				"Snippet: CI - Session - Destroying a Session"
+			],
+			[
+				"ci anch",
+				"Snippet: CI - Anchor Helper"
+			],
+			[
+				"ci session",
+				"Snippet: CI - Session - Destroying a Session"
+			],
+			[
+				"md",
+				"Hasher: MD5"
+			],
+			[
+				"constru",
+				"Snippet: function __construct"
+			],
+			[
+				"ci form sub",
+				"Snippet: CI - Form Helper - Submit"
+			],
+			[
+				"form pas",
+				"Snippet: CI - Form Helper - Password Field"
+			],
+			[
+				"ci form cl",
+				"Snippet: CI - Form Helper - Close"
+			],
+			[
+				"ci form",
+				"Snippet: CI - Form Open"
+			],
+			[
+				"ci for",
+				"Snippet: CI - Form Open"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Snippet: Config Load"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"paka",
+				"Package Control: Disable Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"encode",
+				"Hasher: URI Component Encode"
+			],
+			[
+				"bas",
+				"Hasher: Base64 Encode"
+			],
+			[
+				"bath",
+				"Set Syntax: Batch File"
+			],
+			[
+				"scr",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"eva",
+				"Evaluate: Evaluate Selections"
+			],
+			[
+				"eval",
+				"Evaluate: Evaluate Selections"
+			],
+			[
+				"has",
+				"Hasher: MD5"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insert",
+				"Hasher: Insert UNIX Timestamp"
+			],
+			[
+				"time",
+				"Snippet: Add the MIT license to a plain text file"
+			],
+			[
+				"end",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"enc",
+				"Hasher: Entity Encode"
+			],
+			[
+				"rever",
+				"Permute Lines: Reverse"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"code fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"code fol",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"sha1",
+				"Hasher: SHA1"
+			],
+			[
+				"md5",
+				"Hasher: MD5"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"synta",
+				"Set Syntax: Batch File"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"enti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"slq",
+				"Set Syntax: SQL"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmle",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"fol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"code fod",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fold ",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"filename",
+				"Insert File Name"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"ha",
+				"Hasher: Base64 Encode"
+			],
+			[
+				"ma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uppper",
+				"Sublime Text API Helper: sublime_plugin.EventListener.*"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"timesp",
+				"Hasher: Insert UNIX Timestamp"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"indent x",
+				"Indent XML"
+			],
+			[
+				"times",
+				"Hasher: Insert UNIX Timestamp"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"escape",
+				"StringEncode: Escape LIKE"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"API",
+				"API-Completion-Package: Settings – User"
+			],
+			[
+				"indetn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"server",
+				"SFTP: Setup Server…"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"alph",
+				"Snippet: Insert a comment block at the start of a new section in your PHP class"
+			],
+			[
+				"file",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"b6",
+				"Hasher: Base64 Decode"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"m",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"unix",
+				"Hasher: Insert UNIX Timestamp"
+			],
+			[
+				"64",
+				"Hasher: Base64 Decode"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"print('\\n'*200);",
+			"os.system(\"cls\")",
+			"import os",
+			"os.system(\"cls\")",
+			"help()",
+			"help",
+			"cls",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/rest/dvds.wadl",
+		"/var/www/rest/RestServer.php",
+		"/home/jacem/Desktop/TODO",
+		"/var/www/rest/database.json",
+		"/var/www/rest/JSONUtils.php",
+		"/var/www/rest/DvdController.php",
+		"/var/www/rest/COPYRIGHT",
+		"/var/www/rest/index.php",
+		"/home/jacem/.config/sublime-text-3/Packages/Stupid Indent/Stupid Indent.sublime-settings",
+		"/home/jacem/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jacem/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jacem/.config/sublime-text-3/Packages/User/Stupid Indent.sublime-settings",
+		"/home/jacem/.config/sublime-text-3/Packages/PhpNamespace/Base File.sublime-settings",
+		"/home/jacem/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/home/jacem/.config/sublime-text-3/Packages/User/phpcodegen.sublime-settings",
+		"/home/jacem/.config/sublime-text-3/Packages/PhpCodeGen/phpcodegen.sublime-settings",
+		"/var/www/index.php",
+		"/home/jacem/Desktop/todo",
+		"/home/jacem/Desktop/Stuff.TODO",
+		"/var/www/rest/receive.php",
+		"/var/www/rest/send.html",
+		"/home/jacem/Desktop/JSON_PRETTY_PRINT.php",
+		"/home/jacem/.config/sublime-text-3/Packages/PHPTools/php.tools/codeFormatter.php",
+		"/home/jacem/.config/sublime-text-3/Packages/User/Default (Linux).sublime-mousemap",
+		"/D/xampp/htdocs/rest/RestServer.php",
+		"/D/xampp/htdocs/rest/index.php",
+		"/D/xampp/htdocs/rest/DvdController.php",
+		"/D/xampp/htdocs/rest/JSONUtils.php",
+		"/C/Users/Jacem/Documents/Workspace/workspace-5/MusicPlayer/src/tn/enis/musicplayer/MainActivity.java",
+		"/C/Users/Jacem/Desktop/List.TODO",
+		"/C/Users/Jacem/Documents/Workspace/workspace-5/MusicPlayer/res/layout/activity_main.xml",
+		"/D/xampp/htdocs/rest/database.json",
+		"/C/Users/Jacem/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/Users/Jacem/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jacem/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jacem/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jacem/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/xml/dvds.xml",
+		"/D/xampp/htdocs/xml/dvds.php",
+		"/D/xampp/htdocs/filelist.html",
+		"/D/xampp/htdocs/filelist.txt",
+		"/D/xampp/htdocs/grab.php",
+		"/C/Users/Jacem/Desktop/TODO.txt.todo",
+		"/C/Users/Jacem/Desktop/Package Control Messages.todo",
+		"/D/xampp/htdocs/rest/TestController.php",
+		"/D/xampp/htdocs/rest/xmlUtils.php",
+		"/D/HDD/ENIS/GI3 IAL/Développement d'Applications Orientées Services/REST/5edma.txt",
+		"/C/Users/Jacem/Downloads/users.amf",
+		"/D/xampp/htdocs/rest/Rest.sublime-project",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/controllers/contact.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/user_agents.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/smileys.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/routes.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/profiler.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/mimes.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/migration.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/index.html",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/hooks.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/foreign_chars.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/doctypes.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/database.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/constants.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/config.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/autoload.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/config/asset.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/cache/index.html",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/cache/.htaccess",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/index.html",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/.htaccess",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/index.html",
+		"/D/xampp/htdocs/jacem.chaieb.tn/web.config",
+		"/D/xampp/htdocs/jacem.chaieb.tn/sftp-config.json",
+		"/D/xampp/htdocs/jacem.chaieb.tn/index.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/.htaccess",
+		"/D/xampp/htdocs/rest/xml.php",
+		"/C/Users/Jacem/Desktop/TODO.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/kamel.xml",
+		"/C/Users/Jacem/Desktop/Other Icons/dfjsiopkgttre.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/enis.mails.txt",
+		"/D/HDD/ENIS/mails_enis.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/FTP.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/data.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/azrzar.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/TODO2.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/TODO.txt",
+		"/C/Users/Jacem/Desktop/REST/5edma.txt",
+		"/C/Users/Jacem/Desktop/xml.php",
+		"/C/Users/Jacem/Desktop/list.txt",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/controllers/pfe.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/views/pfe/mylist.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/controllers/pages.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/views/pfe/list.php",
+		"/C/Users/Jacem/Desktop/sql.sql",
+		"/D/HDD/Softwares/Internet/3G Stick/Huawei E3131/E3131.NEW.txt",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/views/views/pfe/list.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/system/libraries/Form_validation.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/views/index.html",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/views/views/pages/sections/education.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/system/core/CodeIgniter.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/alll_the_needs/application/controllers/devmew.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/word/index.php",
+		"/C/Users/Jacem/Downloads/ch7.pcap",
+		"/C/Users/Jacem/Desktop/Other Icons/MS/test.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/TODO (2).txt",
+		"/C/Users/Jacem/Documents/Documents/links.txt",
+		"/C/Users/Jacem/Documents/Documents/WIN_SN.txt",
+		"/C/Users/Jacem/Documents/Documents/wireless_adb.sh.txt",
+		"/C/Users/Jacem/Documents/Documents/TXTs/download.txt",
+		"/C/Users/Jacem/Documents/Documents/TXTs/oous.txt",
+		"/C/Users/Jacem/Documents/Documents/TXTs/some.txt",
+		"/D/xampp/htdocs/jacem.chaieb.tn/word/stage.json",
+		"/D/xampp/htdocs/xml/Films.php",
+		"/C/Users/Jacem/Desktop/Other Icons/Lettres de motivations/mail.txt",
+		"/C/Users/Jacem/Desktop/Other Icons/Lettres de motivations/lettre",
+		"/D/xampp/htdocs/jacem.chaieb.tn/word/output/doc2pdf.ps1",
+		"/D/xampp/htdocs/xml/insertjeux.php",
+		"/D/xampp/htdocs/rest/COPYRIGHT",
+		"/D/xampp/htdocs/rest/RestFormat.php",
+		"/D/xampp/htdocs/rest/.htaccess",
+		"/D/xampp/htdocs/rest/rest.php",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/C/Users/Jacem/Desktop/5edma.txt",
+		"/C/Users/Jacem/Desktop/Final List.csv",
+		"/C/Users/Jacem/Desktop/Final List.xlsx",
+		"/D/HDD/ISOs/Operating Systems/Windows/windows-8-pro-en-x64.txt",
+		"/D/xampp/htdocs/jacem.chaieb.tn/word/tbs/tbs_class.php",
+		"/D/xampp/htdocs/jacem.chaieb.tn/bourse/index.php",
+		"/C/Users/Jacem/AppData/Local/Temp/fz3temp-1/index.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"/var/www/rest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"POST",
+			"///",
+			"5",
+			"-4",
+			"3",
+			"DEL",
+			"DELETE_DVD_",
+			"UPDATE",
+			"getData",
+			"COPYRIGHT",
+			"ndata",
+			"PUT",
+			"INSERT",
+			"UPDATE_DVD_ALREADY_EXIST",
+			"INSERT",
+			"value",
+			"\"id\":",
+			"\"id\": ",
+			"INSERT",
+			"INSERT_DVD_INVALID_DATA",
+			"POST",
+			"file_put_contents",
+			"static",
+			"INSERT_DVD",
+			"JSONUtils->",
+			"break",
+			"case",
+			"INSERT_DVD",
+			"=>",
+			"  =>",
+			"/dvd/",
+			"\\t",
+			"\n",
+			"$_SERVER",
+			"]",
+			"definition",
+			"goto defi",
+			"TestController",
+			"non définie!",
+			"n'est pas",
+			"$return[\"message\"]",
+			"if ($_POST[\"",
+			"if (",
+			"=>",
+			" =>",
+			":",
+			"\"YEAR\"",
+			"\"PRICE\"",
+			"\"COMPANY\"",
+			"\"COUNTRY\"",
+			"\"ARTIST\"",
+			"\"TITLE\"",
+			"                                 '",
+			"\\t",
+			"\"",
+			"\\t",
+			"XmlUtils",
+			"file",
+			"files",
+			"file",
+			"</a>",
+			"http://",
+			"$url",
+			"$dom",
+			"dom",
+			"=",
+			"&amp;",
+			"Non",
+			"/*\n=",
+			"====",
+			"-I",
+			"-U",
+			"+U",
+			"+I",
+			"///",
+			":",
+			"1",
+			"[ ]",
+			"\"",
+			"\\t",
+			"			",
+			"\"element\" => ",
+			"array2xmlfn",
+			"xml_encode(",
+			"xml_encode",
+			"404",
+			"$index",
+			"$vals",
+			"	\n",
+			"$p",
+			"p",
+			"simple",
+			"-",
+			"’",
+			"(.*)\\n(\\1)\\n",
+			"\"",
+			"633",
+			"\"my\"",
+			"my",
+			"result",
+			"\\t",
+			"<div class=\"cell\">\\n(\\s+)(.+)\\n(\\s+)</div>",
+			"  <div class=\"row\">",
+			"        ",
+			"       ",
+			"      ",
+			"\n    \n",
+			"pfe/",
+			"\\t",
+			"generateMap",
+			"addClass",
+			"\\t",
+			"$server",
+			"Server",
+			"server",
+			"tab_size",
+			"    ",
+			" ",
+			"Stage/Java/Asn",
+			"<br/>",
+			"\\n",
+			"\n",
+			"%20",
+			" ",
+			"    ",
+			"XPath",
+			"xpath",
+			"sym"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  ",
+			"\"year\"",
+			"\"price\"",
+			"\"company\"",
+			"\"country\"",
+			"\"artist\"",
+			"\"title\"",
+			"  ",
+			"</a><br/>",
+			"  ",
+			"$1\\n",
+			"  ",
+			"<div class=\"cell\">$2</div>",
+			"  ",
+			"\\t",
+			"[-] $1 - ",
+			"",
+			"$3 - $1 $2 - ",
+			"\\t\\t\\t",
+			"\\t",
+			"  ",
+			"",
+			" ",
+			"\\t",
+			"\\n",
+			"",
+			"\\n",
+			" ",
+			"\\n",
+			" ",
+			"\\n",
+			" ",
+			"\\n",
+			" <number> ",
+			" <latin> ",
+			"",
+			" ",
+			"",
+			"\\n",
+			" ",
+			"\\n",
+			"",
+			"\\n",
+			".\\n",
+			"+",
+			"",
+			"\\t",
+			"\\n",
+			" {",
+			"..",
+			"\\t",
+			"afd",
+			"href=\"http://clearmatches.com/afd/",
+			"src=\"http://clearmatches.com/afd/",
+			"\\n",
+			"--",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\t",
+			".ace_wysiwyg",
+			"  ",
+			"è",
+			"à",
+			"é",
+			"\\t",
+			"\\n",
+			",",
+			"\"",
+			" ",
+			"{",
+			";",
+			"}",
+			"{",
+			" ",
+			"  ",
+			"A",
+			"o",
+			"E",
+			"\\t",
+			"=",
+			"",
+			"\\tpublic function",
+			"\\tpublic funtion",
+			"",
+			"\\n\\n",
+			"",
+			"\\n\\t",
+			"\\t",
+			"/***  $1  ***/",
+			"\\n\\n//",
+			"\\n//",
+			"// $1\\n",
+			"",
+			"\\t",
+			"\\n\\nCREATE",
+			"\\n",
+			"",
+			"\\n",
+			"\\t",
+			"",
+			"\\t",
+			"\\n\\t",
+			";\\n",
+			"\"",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\t",
+			"",
+			"C%2B%2B",
+			"!important;",
+			" ",
+			"\\n",
+			"",
+			"$1",
+			"INTEGER(11) ,",
+			"VARCHAR(256) ,",
+			"VARCHAR ,\\n\"",
+			"#ff6501",
+			"#ff6100",
+			"$1 $2 $3",
+			"'$1 $2 $3'",
+			"$1 $2 $3",
+			"INSERT INTO liens_utiles (texte, lien) VALUES ('$1', '$2');",
+			"''",
+			"",
+			"die(\"Some error\");"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "DvdController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								222,
+								11,
+								14,
+								14,
+								32,
+								44,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 77.0
+	},
+	"project": "Rest.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"xmlUtils.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\jacem.chaieb.tn\\jace.chaieb.tn.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
